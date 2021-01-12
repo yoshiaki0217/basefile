@@ -1,0 +1,18 @@
+
+[user]
+  name = 大城由晃
+  email = yoshiaki19980217@icloud.com
+[alias]
+  co = checkout
+  fe = fetch
+  st = status
+  ci = commit
+  br = branch
+[core]
+  editor = vi
+[push]
+  default = current
+[github]
+	user = yoshiaki0217
+[init]
+	templatedir = ~/.git-templates/git-secrets
