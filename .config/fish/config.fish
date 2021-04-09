@@ -1,4 +1,5 @@
 set -x PATH $HOME/.anyenv/bin $PATH
+set -x PATH $HOME/.nodebrew/current/bin $PATH
 anyenv init - fish | source
 # tmux
  
